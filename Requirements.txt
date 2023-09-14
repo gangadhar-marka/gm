@@ -1,11 +1,11 @@
 Pandas
 Numpy
 Seaborn
-Matplotlib
+matplotlib
 Plotly
 datetime
 scikit-learn==0.24.2
-classification_report
+classification-report
 confusion_matrix
 RegexpTokenizer
 SnowballStemmer
