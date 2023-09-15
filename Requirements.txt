@@ -5,7 +5,7 @@ matplotlib
 Plotly
 datetime
 scikit-learn==0.24.2
-classification-report
+classification_report
 confusion_matrix
 RegexpTokenizer
 SnowballStemmer
